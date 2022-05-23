@@ -1,0 +1,13 @@
+import os
+
+def main():	
+
+	Filename = input("Enter the filename : ")
+
+name = input("Enter your name : ")
+
+address = input("Enter your address : ")
+
+phone_number = input("Enter your phone number : ")
+
+Filename = input("Enter the filename : ")
